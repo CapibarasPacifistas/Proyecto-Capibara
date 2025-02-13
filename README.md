@@ -12,7 +12,8 @@ Bienvenidos somos el equipo de Capibaras Pacificos, nuestro objetivo es la creac
 - **Sebastian Garcia**
 Es de Cali valle del cauca, siempre ha estado interesado en el mundo digital y la creación de videojuegos. En este proyecto va asumir el rol de Environment Artist y FX Artist. También colabora en la programación de algunos objetos del escenario para garantizar la integración fluida entre el diseño y la funcionalidad.
 
-![Imagen Sebastian](https://github.com/user-attachments/assets/35185090-30ca-4cf0-8b9f-854cfe337366)
+![Imagen Sebastian](https://github.com/user-attachments/assets/cf3c53a8-c1ac-4ea3-ab95-0411d517aae2)
+
 
 
 (esperando los otros).
