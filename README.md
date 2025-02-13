@@ -7,5 +7,7 @@ Juan Carvajal Marin interesado en la progracion de videojuegos.
 
 Juan David Salgado Rendon.
 
+Sebastian Garcia.
+
 (esperando los otros).
 
