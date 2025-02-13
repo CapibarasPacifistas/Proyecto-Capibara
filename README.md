@@ -10,7 +10,10 @@ Bienvenidos somos el equipo de Capibaras Pacificos, nuestro objetivo es la creac
 - Juan David Salgado Rendón, es de Cali, un tipo relajado con un estilo caribeño y urbano a la vez, le interesa mucho la parte de creación de personajes para un proyecto multimedia, en este caso un videojuego, darle ese toque carismático a cada uno de ellos y que el jugador se conecte y cree esa conexión con cada personaje, ya que es fundamental para que el videojuego tenga ese enganche y sea exitoso.
 
 - **Sebastian Garcia**
-Sebastian Garcia, es de Cali valle del cauca, siempre ha estado interesado en el mundo digital y la creación de videojuegos. En este proyecto va asumir el rol de Environment Artist y FX Artist. También colabora en la programación de algunos objetos del escenario para garantizar la integración fluida entre el diseño y la funcionalidad.
+Es de Cali valle del cauca, siempre ha estado interesado en el mundo digital y la creación de videojuegos. En este proyecto va asumir el rol de Environment Artist y FX Artist. También colabora en la programación de algunos objetos del escenario para garantizar la integración fluida entre el diseño y la funcionalidad.
+
+![Imagen Sebastian](https://github.com/user-attachments/assets/35185090-30ca-4cf0-8b9f-854cfe337366)
+
 
 (esperando los otros).
 
