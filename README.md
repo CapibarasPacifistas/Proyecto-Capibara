@@ -24,6 +24,8 @@ Es de Cali valle del cauca, siempre ha estado interesado en el mundo digital y l
   nacido en Cali, es una persona la cual siempre ha tenido una fascinación por los videojuegos desde pequeño, siendo este su mayor hobby. esta muy interesado en lo que sería el proyecto ya qué aportar lo que pueda para el desarrollo de algo relacionado con los
   videojuegos le parece muy interesante.
 
+  ![Image](https://github.com/user-attachments/assets/0cd6d255-4b70-41f5-86db-96703ac0358b)
+
  
 
 
