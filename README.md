@@ -20,5 +20,11 @@ Es de Cali valle del cauca, siempre ha estado interesado en el mundo digital y l
 
 ![Imagen Sebastian](https://github.com/user-attachments/assets/a79c9730-63b2-46d9-b4c8-19f4dd6c607c)
 
+- **Cristhian Valencia**
+  nacido en Cali, es una persona la cual siempre ha tenido una fascinación por los videojuegos desde pequeño, siendo este su mayor hobby. esta muy interesado en lo que sería el proyecto ya qué aportar lo que pueda para el desarrollo de algo relacionado con los
+  videojuegos le parece muy interesante.
+
+  
+
 
 (esperando los otros).
